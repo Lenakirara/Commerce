@@ -78,7 +78,7 @@ Qualquer dúvida, procure a monitoria. Lembre-se que você pode consultar nosso 
 
 - `git clone git@github.com:Lenakirara/Commerce.git`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-011-mongodb-commerce`
+  - `cd Commerce`
 
 2. Crie uma branch a partir da branch `master`
 
